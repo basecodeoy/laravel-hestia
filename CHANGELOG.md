@@ -9,7 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 
-<a name="1.0.0"></a>
-## 1.0.0 - 2023-07-29
+<a name="0.0.2"></a>
+## [0.0.2] - 2024-11-05
 
-[Unreleased]: https://github.com/basecodeoy/laravel-hestia/compare/1.0.0...HEAD
+<a name="0.0.1"></a>
+## 0.0.1 - 2024-11-04
+
+[Unreleased]: https://github.com/basecodeoy/laravel-hestia/compare/0.0.2...HEAD
+[0.0.2]: https://github.com/basecodeoy/laravel-hestia/compare/0.0.1...0.0.2
